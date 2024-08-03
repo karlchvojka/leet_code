@@ -1,5 +1,5 @@
 # LeetCode Tracking
-## Version 0.1.0
+## Version 1.0.0
 LeetCode tracking is a simple repo for tracking Leetcode progress.
 
 Currently working through the ['30 Days of JavaScript'](https://leetcode.com/studyplan/30-days-of-javascript/) Study plan
